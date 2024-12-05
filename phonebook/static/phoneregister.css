@@ -1,0 +1,27 @@
+body{
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+.register{
+    width: 33%;
+    height: 250px;
+    border: solid red;
+    margin-top: 40vh;
+    margin-left: 50vw;
+}
+.register .reg input{
+    width: 250px;
+    height: 30px;
+    margin-left: 5vw;
+    margin-top: 3vh;
+    
+}
+.register .sub input{
+    width: 70px;
+    height: 25px;
+    margin-top: 2vh;
+    margin-left: 16vw;
+    border-radius: 4px;
+}
